@@ -1,0 +1,28 @@
+.box-0
+{
+    height: 30px;
+    background: violet;
+}
+.box
+{
+    height: 30px;
+}
+.box2
+{
+    width: 100px;
+    height: 100px;
+    background: tomato;
+}
+.mh-400
+{
+    min-height: 100px;
+}
+.responsive-img img
+{
+    width: 100%;
+}
+
+.img-part-2
+{
+    width: 200px;
+}
